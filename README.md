@@ -3,9 +3,9 @@
 **OpenWeatherApp** is the weather forecast application used the API provided by https://openweathermap.org/.
 
 ## Screenshots
-![Main](https://user-images.githubusercontent.com/63318866/110850492-13ca4000-826d-11eb-8da4-ef0210302b3b.PNG)
-![Weather List](https://user-images.githubusercontent.com/63318866/110850495-14fb6d00-826d-11eb-8d75-5f1f99ca6464.PNG)
-![Weather Detail](https://user-images.githubusercontent.com/63318866/110850497-14fb6d00-826d-11eb-86f2-01f5f326090a.PNG)
+![IMG_269](https://user-images.githubusercontent.com/63318866/110853467-e8e1eb00-8270-11eb-8230-c151a5709db2.JPEG)
+![IMG_270](https://user-images.githubusercontent.com/63318866/110853469-e8e1eb00-8270-11eb-8811-f4ebcbdd1801.JPEG)
+![IMG_271](https://user-images.githubusercontent.com/63318866/110853470-e97a8180-8270-11eb-8872-2b1a40c9cf85.JPEG)
 
 ## Features
 ### Main Page
